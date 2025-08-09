@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHibCffSiemWA/profile-displaybackgroundimage-shrink_350_1400/B56Zh72v4tHkAY-/0/1754424607981?e=1757548800&v=beta&t=TuvhwPHC9UG3feQg3a-Jmn9TsjRJh0HKxMg-Ne0QNo0">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEr4UArpWRbbw/profile-displaybackgroundimage-shrink_350_1400/B56Zh78BmOHUAc-/0/1754425991305?e=1757548800&v=beta&t=telUBHEgyQdyxV1j6myc6c0Qx6P-d-vuzdYdWr-l0RM">
 <h3 align="center">Innovative web developer based in Bangladesh, crafting responsive and dynamic websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webwithfiroj&label=Profile%20views&color=0e75b6&style=flat" alt="webwithfiroj" /> </p>
